@@ -1,7 +1,7 @@
 # NoteSync
 # 📝 NoteSync
 
-**NoteSync** is a simple Jetpack Compose-based note-viewing app that demonstrates core modern Android development principles, including offline and online data management using Room and Retrofit, MVVM architecture, and the Repository Pattern.
+**NoteSync** is a simple Jetpack Compose-based  app to view notes from some public endpoint that demonstrates core modern Android development principles, including offline and online data management using Room and Retrofit, MVVM architecture, and the Repository Pattern.
 
 ---
 
